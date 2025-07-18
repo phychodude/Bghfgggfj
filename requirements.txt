@@ -1,2 +1,0 @@
-discord.py-no-voice==2.3.2
-aiohttp
